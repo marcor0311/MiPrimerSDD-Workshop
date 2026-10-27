@@ -1,0 +1,12 @@
+{
+  "name": "curso-pswe-07",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "eslint": "^9.39.0"
+  }
+}
